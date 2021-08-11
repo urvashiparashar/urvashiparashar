@@ -8,7 +8,9 @@
 - 🍀 I am actively looking forward to contribute in web development projects.
 - 🔥 I am eager to explore new things and like to work with new people.
 - 💭 Self-motivated, reluctant, determined and headstrong person
-- 📫 [![Linkedin Badge](https://img.shields.io/badge/-urvashiparashar-purple?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvashi-parashar-a863b51aa/)](https://www.linkedin.com/in/urvashi-parashar-a863b51aa/) [![Twitter Badge](https://img.shields.io/badge/-urvashi05_-purple?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/urvashi05_)](https://twitter.com/urvashi05_)
+- 😄 Pronouns: She/her
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/urvashi-parashar-a863b51aa/), [Gmail](urvashiparashar2001@gmail.com)
+- 🤝 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-urvashiparashar-purple?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvashi-parashar-a863b51aa/)](https://www.linkedin.com/in/urvashi-parashar-a863b51aa/) [![Twitter Badge](https://img.shields.io/badge/-urvashi05_-purple?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/urvashi05_)](https://twitter.com/urvashi05_)
 
 <h2>My Git stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=urvashiparashar&&show_icons=true&count_private=true&theme=radical"/>
