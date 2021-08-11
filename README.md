@@ -1,4 +1,4 @@
-<img align="center" height="250px" width="100%" src="https://raw.githubusercontent.com/urvashiparashar/urvashiparashar/main/banner.png"/>
+<img align="center" height="250px" width="100%" src="https://raw.githubusercontent.com/urvashiparashar/urvashiparashar/main/banner2.png"/>
 
 ### Hi there 👋 I'm Urvashi!
 
