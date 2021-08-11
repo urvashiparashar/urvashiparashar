@@ -2,6 +2,16 @@
 
 ### Hi there 👋 I'm Urvashi!
 
+## ABOUT ME
+- 💻 Web Developer
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=urvashiparashar&&show_icons=true&count_private=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=urvashiparashar&theme=radical"/>
+
+## TOP PROGRAMMING LANGUAGES
+
+
 <!--
 **urvashiparashar/urvashiparashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
