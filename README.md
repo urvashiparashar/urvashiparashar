@@ -5,7 +5,7 @@
 ## ABOUT ME
 - 📚 Currently pursuing B.Tech in Computer Science and Engineering 
 - 💻 Web Developer
-- 🍀 Currently looking to contribute in web development projects
+- 🍀 I am actively looking forward to contribute in web development projects.
 - 📫 [![Linkedin Badge](https://img.shields.io/badge/-urvashiparashar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvashi-parashar-a863b51aa/)](https://www.linkedin.com/in/urvashi-parashar-a863b51aa/) [![Twitter Badge](https://img.shields.io/badge/-urvashi05_-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/urvashi05_)](https://twitter.com/urvashi05_)
 - 
 
