@@ -3,10 +3,10 @@
 
 ## ABOUT ME 💁‍♀️
 - 📚 Currently pursuing B.Tech in Computer Science and Engineering 
-- 💞 Web Enthusiast
+- 💻 Web Enthusiast
 - 🔍 I am actively looking forward to contribute in web development projects.
-- 🔥 I am eager to explore new things and like to work with new people.
 - 🍀 I'm currently learning DSA and Java.
+- 🔥 I am eager to explore new things and like to work with new people.
 - 😄 Pronouns: She/her
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/urvashi-parashar-a863b51aa/), [Gmail](urvashiparashar2001@gmail.com)
 - 🤝 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-urvashiparashar-purple?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvashi-parashar-a863b51aa/)](https://www.linkedin.com/in/urvashi-parashar-a863b51aa/) [![Twitter Badge](https://img.shields.io/badge/-urvashi05_-purple?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/urvashi05_)](https://twitter.com/urvashi05_)
