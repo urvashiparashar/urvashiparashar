@@ -1,3 +1,5 @@
+<img align="center" height="60%" width="80%" src="https://raw.githubusercontent.com/urvashiparashar/urvashiparashar/main/banner.png"/>
+
 ### Hi there 👋 I'm Urvashi!
 
 <!--
