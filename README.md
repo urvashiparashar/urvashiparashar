@@ -1,8 +1,8 @@
 <img align="center"  width ="100%" src="https://raw.githubusercontent.com/urvashiparashar/urvashiparashar/main/banner2.png"/>
 
-### Hi there 👋 I'm Urvashi!
+### Hello Urvashi Parashar here!
 
-## ABOUT ME
+## ABOUT ME 💁‍♀️
 - 📚 Currently pursuing B.Tech in Computer Science and Engineering 
 - 💻 Web Developer
 - 🍀 I am actively looking forward to contribute in web development projects.
