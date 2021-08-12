@@ -22,11 +22,16 @@
 
 <h2>Languages and Tools:</h2>
 
+- 🖥️ : [![C++ Badge](https://img.shields.io/badge/-C++-1d1d1e?style=plastic-square&logo=C%2B%2B&logoColor=blue&link=https://dev-cpp.com/)](https://dev-cpp.com/) [![Java Badge](https://img.shields.io/badge/-JAVA-1d1d1e?style=plastic-square&logo=Java&logoColor=white&link=https://www.java.com/en/)](https://www.java.com/en/)  ![Mysql Badge](https://img.shields.io/twitter/url?color=141418&label=Mysql&logo=MYSQL&logoColor=430396&style=social&url=https%3A%2F%2Fwww.java.com%2Fen%2F) ![Python Badge](https://img.shields.io/twitter/url?color=141418&label=Python&logo=Python&style=social&url=https%3A%2F%2Fwww.java.com%2Fen%2F)
+- 🔧 : [![Vscode](https://img.shields.io/badge/-Visual%20Studio-1d1d1e?style=plastic-square&logo=Visual%20Studio%20Code&logoColor=blue&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 
-<p align="left"> 
+
+
+
+<!-- <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
 
 <!--
