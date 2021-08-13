@@ -23,7 +23,7 @@
 <h2>Languages and Tools:</h2>
 
 - 🖥️ : [![C++ Badge](https://img.shields.io/badge/-C++-1d1d1e?style=plastic-square&logo=C%2B%2B&logoColor=blue&link=https://dev-cpp.com/)](https://dev-cpp.com/) [![Java Badge](https://img.shields.io/badge/-JAVA-1d1d1e?style=plastic-square&logo=Java&logoColor=white&link=https://www.java.com/en/)](https://www.java.com/en/)  ![Mysql Badge](https://img.shields.io/twitter/url?color=141418&label=Mysql&logo=MYSQL&logoColor=430396&style=social&url=https%3A%2F%2Fwww.java.com%2Fen%2F) ![Python Badge](https://img.shields.io/twitter/url?color=141418&label=Python&logo=Python&style=social&url=https%3A%2F%2Fwww.java.com%2Fen%2F)
-- 🔧 : [![Vscode](https://img.shields.io/badge/-Visual%20Studio-1d1d1e?style=plastic-square&logo=Visual%20Studio%20Code&logoColor=blue&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+- 🔧 : [![Vscode](https://img.shields.io/badge/-Visual%20Studio-1d1d1e?style=plastic-square&logo=Visual%20Studio%20Code&logoColor=blue&link=https://code.visualstudio.com/)](https://code.visualstudio.com/) [![Android Studio](https://img.shields.io/badge/-Android%20Studio-1d1d1e?style=plastic-square&logo=Android%20Studio&logoColor=32CD32&link=https://developer.android.com/studio/)](https://developer.android.com/studio/)
 
 
 
