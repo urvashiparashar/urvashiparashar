@@ -7,7 +7,7 @@
 - 📚 Currently pursuing B.Tech in Computer Science and Engineering 
 - 💻 Web Enthusiast
 - 🔍 I am actively looking forward to contribute in web development and open source projects.
-- 🍀 I'm currently learning DSA and Java.
+- 🍀 I'm currently learning DSA.
 - 🔥 I am eager to explore new things and like to work with new people.
 - 😄 Pronouns: She/her
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/urvashi-parashar-a863b51aa/), [Gmail](urvashiparashar2001@gmail.com)
