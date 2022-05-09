@@ -1,7 +1,7 @@
 
 
 
-### Hey There 👋, I'm Urvashi Parashar!
+### Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Urvashi Parashar!
 
 ## ABOUT ME 💁‍♀️
 - 📚 Currently pursuing B.Tech in Computer Science and Engineering 
@@ -14,7 +14,8 @@
 - 🤝 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-urvashiparashar-purple?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvashi-parashar-a863b51aa/)](https://www.linkedin.com/in/urvashi-parashar-a863b51aa/) [![Twitter Badge](https://img.shields.io/badge/-urvashi05_-purple?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/urvashi05_)](https://twitter.com/urvashi05_)
 
 <h2>My Git stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=urvashiparashar&&show_icons=true&count_private=true&theme=radical"/>
+ <a href="https://github.com/urvashiparashar/github-readme-stats"><img alt="Urvashi Parashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=urvashiparashar&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=0D1117" /></a>&nbsp;
+<a href="https://github.com/urvashiparashar/github-readme-stats"><img alt="Urvashi Parashar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashiparashar&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" /></a>
 <h2>My Contribution Streak</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=urvashiparashar&theme=radical"/>
 
