@@ -1,7 +1,7 @@
 
 
 
-### Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Urvashi Parashar!
+### Hey There 👋 I'm Urvashi Parashar!
 
 ## ABOUT ME 💁‍♀️
 - 📚 Currently pursuing B.Tech in Computer Science and Engineering 
